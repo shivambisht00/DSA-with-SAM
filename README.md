@@ -1,10 +1,25 @@
 [README.md](https://github.com/user-attachments/files/26401702/README.md)
 <div align="center">
 
-# 🧠 DSA with Sam
+<div align="center">
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00c6ff&height=220&section=header&text=Shivam%20Bisht&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=ffffff&strokeWidth=2&desc=⚡%20DSA%20with%20SAM%20📊&descAlignY=60&descSize=22&descColor=00eaff" width="100%"/>
+
+<br/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=800&color=00E6FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=%F0%9F%92%BB+Solving+Problems+with+Logic;%F0%9F%93%8A+Data+Structures+%26+Algorithms;%E2%9A%A1+Optimizing+Code+Step+by+Step;%F0%9F%9A%80+Mastering+DSA+with+SAM" alt="Typing SVG" />
+
+<br/><br/>
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **A structured journey through Data Structures & Algorithms**
 *From fundamentals to interview-ready mastery — one problem at a time.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
@@ -13,7 +28,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 👨‍💻 About This Repository
 
@@ -21,10 +37,11 @@ This repository documents my complete DSA learning journey — every concept, ev
 
 - 🔍 **Focus**: Clean, well-commented, optimized solutions
 - 🧩 **Platform**: LeetCode (primary), with curated problems from other sources
-- ⚡ **Language**: C++ (Python coming soon)
+- ⚡ **Language**: C++ 
 - 📈 **Approach**: Concept first → Pattern recognition → Problem solving
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 📂 Repository Structure
 
@@ -40,12 +57,7 @@ DSA-with-Sam/
 ├── 📁 07-Trees/             # Binary Trees, BST, AVL
 └── 📁 08-Graphs/            # BFS, DFS, Dijkstra's Algorithm
 ```
-
-Each folder contains:
-- 📝 `notes.md` — Concept summary and key patterns
-- 💻 Solution files with problem links and complexity analysis
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Progress Tracker
 
@@ -60,7 +72,7 @@ Each folder contains:
 | 07 | Trees | ⏳ Upcoming | — |
 | 08 | Graphs | ⏳ Upcoming | — |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Goals
 
@@ -70,7 +82,7 @@ Each folder contains:
 - [ ] Crack coding interviews at top tech companies
 - [ ] Qualify GATE with a strong DSA score
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Languages & Tools
 
@@ -79,7 +91,7 @@ Each folder contains:
 | C++ | 🟢 Active |
 | Python | 🔜 Coming Soon |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💡 How I Approach Each Problem
 
@@ -91,7 +103,7 @@ Each folder contains:
 5. Review       →   Check edge cases, test, and refactor
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Motivation
 
@@ -99,16 +111,16 @@ Each folder contains:
 
 Every day is a new opportunity to improve. This repository is proof of that commitment.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect with Me
 
 Feel free to reach out — whether it's to discuss DSA, collaborate, or just say hello!
 
-- 📧 **Email**: [8171659929sb@gmail.com](mailto:8171659929sb@gmail.com)
+- 📧 **Email**: [vision.official.3107@gmail.com](mailto:vision.official.3107@gmail.com)
 - 💼 **LinkedIn**: [Shivam Bisht](https://www.linkedin.com/in/shivam-bisht-063361382)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 

@@ -1,0 +1,54 @@
+//leetcode 2452: Words Within Two Edits of Dictionary
+// You are given two string arrays, queries and dictionary. All words in each array comprise of lowercase English letters and have the same length.
+
+// In one edit you can take a word from queries, and change any letter in it to any other letter. Find all words from queries that, after a maximum of two edits, equal some word from dictionary.
+
+// Return a list of all words from queries, that match with some word from dictionary after a maximum of two edits. Return the words in the same order they appear in queries.
+
+
+// Example 1:
+
+// Input: queries = ["word","note","ants","wood"], dictionary = ["wood","joke","moat"]
+// Output: ["word","note","wood"]
+// Explanation:
+// - Changing the 'r' in "word" to 'o' allows it to equal the dictionary word "wood".
+// - Changing the 'n' to 'j' and the 't' to 'k' in "note" changes it to "joke".
+// - It would take more than 2 edits for "ants" to equal a dictionary word.
+// - "wood" can remain unchanged (0 edits) and match the corresponding dictionary word.
+// Thus, we return ["word","note","wood"].
+
+
+#include<iostream>
+#include<vector>
+#include<string>
+using namespace std;
+vector<string> twoedit(vector<string>& queries , vector<string>& dictionary){
+    vector<string> ans;
+    for(int i = 0 ; i<queries.size(); i++){
+        for(int j = 0 ; j <dictionary.size(); j++){
+            int count = 0 ;
+            for(int k = 0 ; k<queries[i].size();k++){
+                if(queries[i][k]!=dictionary[j][k]){
+                    count++;
+                }
+            }
+            if(count<=2){
+                ans.push_back(queries[i]);
+                break; // ager mil gya to dobara compare nhi karunga 
+            }
+        }
+    }
+    return ans;
+}
+int main()
+{
+
+  vector<string> q= {"word","note","ants","wood"};
+  vector<string> d={"word","note","wood"};
+    vector<string> ans;
+    ans = twoedit(q,d);
+    for(auto it:ans){
+        cout<<it<<endl;
+    }
+    return 0;
+}

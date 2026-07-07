@@ -136,6 +136,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +145,5 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

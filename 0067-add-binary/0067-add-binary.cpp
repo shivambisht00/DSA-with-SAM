@@ -1,0 +1,49 @@
+class Solution {
+public:
+    string addBinary(string a, string b) {
+       string ans = "";
+int i = a.size()- 1;
+int j = b.size()-1;
+int carry = 0;
+
+while(i >= 0 || j >= 0 || carry){
+    int a1, b1;
+    if(i>=0) {
+  a1= a[i]-'0';
+}
+else{ 
+    a1=0;}
+    
+    if(j>=0) {
+ b1= b[j]-'0';
+}
+else b1 = 0;
+
+    int sum = a1+ b1+ carry;
+
+ 
+    if(sum == 0){
+        ans += '0';
+        carry = 0;
+    }
+    else if(sum == 1){
+        ans += '1';
+        carry = 0;
+    }
+    else if(sum == 2){
+        ans += '0';
+        carry = 1;
+    }
+    else if(sum == 3){
+        ans += '1';
+        carry = 1;
+    }
+
+    i--;
+    j--;
+}
+
+reverse(ans.begin(), ans.end());
+return ans; 
+    }
+};

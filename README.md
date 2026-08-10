@@ -135,6 +135,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0643-maximum-average-subarray-i) |
@@ -176,4 +177,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

@@ -174,6 +174,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +212,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->

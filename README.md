@@ -138,6 +138,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0039-combination-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0724-find-pivot-index) |
@@ -147,6 +148,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -191,6 +193,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

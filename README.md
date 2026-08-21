@@ -175,6 +175,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Recursion

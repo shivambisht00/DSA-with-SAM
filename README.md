@@ -179,6 +179,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0263-ugly-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Recursion
@@ -228,6 +229,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |

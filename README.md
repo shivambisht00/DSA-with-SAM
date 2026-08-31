@@ -177,6 +177,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
@@ -228,10 +229,15 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

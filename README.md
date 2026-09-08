@@ -153,6 +153,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -227,6 +228,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -247,4 +249,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

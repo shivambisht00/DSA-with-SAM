@@ -187,6 +187,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3870-count-commas-in-range](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion

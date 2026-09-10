@@ -139,6 +139,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0039-combination-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
@@ -211,6 +212,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
@@ -267,4 +269,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -257,9 +257,14 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

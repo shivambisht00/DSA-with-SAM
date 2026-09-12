@@ -136,6 +136,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
@@ -270,9 +271,14 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -186,6 +186,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |

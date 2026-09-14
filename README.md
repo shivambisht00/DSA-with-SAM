@@ -194,6 +194,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0342-power-of-four](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0836-rectangle-overlap) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
@@ -281,4 +282,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

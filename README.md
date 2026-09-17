@@ -297,4 +297,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

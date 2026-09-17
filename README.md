@@ -149,6 +149,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0724-find-pivot-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -162,6 +163,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,10 +181,12 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0069-sqrtx](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |

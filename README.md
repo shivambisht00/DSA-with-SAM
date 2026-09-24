@@ -152,6 +152,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1480-running-sum-of-1d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -203,6 +204,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0836-rectangle-overlap](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0836-rectangle-overlap) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3876-construct-uniform-parity-array-ii) |

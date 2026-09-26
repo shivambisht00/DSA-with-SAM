@@ -151,6 +151,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,6 +167,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0560-subarray-sum-equals-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -277,6 +279,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Matrix
 |  |
 | ------- |

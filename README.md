@@ -185,6 +185,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
+| [0397-integer-replacement](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -218,6 +219,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -268,6 +270,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0397-integer-replacement) |
 ## Newton's Method
 |  |
 | ------- |
@@ -302,6 +305,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0397-integer-replacement) |
 ## Geometry
 |  |
 | ------- |

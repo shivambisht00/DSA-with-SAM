@@ -137,6 +137,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0001-two-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0053-maximum-subarray) |
@@ -278,6 +279,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
@@ -341,4 +343,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

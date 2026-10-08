@@ -283,6 +283,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
+| [1021-remove-outermost-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -336,11 +337,13 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie

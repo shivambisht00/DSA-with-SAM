@@ -337,6 +337,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Stack
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -350,4 +351,20 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->

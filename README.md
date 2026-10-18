@@ -359,6 +359,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -372,10 +373,12 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -384,4 +387,16 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

@@ -358,6 +358,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
 | [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -367,4 +368,20 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0897-increasing-order-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

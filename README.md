@@ -153,6 +153,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivambisht00/DSA-with-SAM/tree/master/3875-construct-uniform-parity-array-i) |
@@ -234,6 +235,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivambisht00/DSA-with-SAM/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |

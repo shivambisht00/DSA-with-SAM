@@ -216,6 +216,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -402,4 +403,8 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0785-is-graph-bipartite) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

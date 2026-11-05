@@ -9,20 +9,14 @@
  * };
  */
 class Solution {
-public:
+public: // optimize aproch using fast & slow pointer 
     ListNode* middleNode(ListNode* head) {
-         ListNode* temp = head;
-         int size = 0;
-        while(temp!= NULL){
-            size++;
-            temp = temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+        while (fast != NULL && fast->next!= NULL){
+            slow = slow->next ;
+            fast = fast->next->next ;
         }
-        int pos = (size/2);
-        temp = head;
-        for(int i = 0 ; i<pos ; i++){
-            temp = temp->next;
-
-        }
-        return temp;
+        return slow;
     }
 };

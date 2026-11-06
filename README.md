@@ -163,6 +163,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | ------- |
 | [0001-two-sum](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0383-ransom-note) |
@@ -303,6 +304,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 | [0011-container-with-most-water](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0876-middle-of-the-linked-list) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shivambisht00/DSA-with-SAM/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Quicksort
@@ -407,6 +409,11 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

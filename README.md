@@ -218,6 +218,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0509-fibonacci-number) |
@@ -411,6 +412,7 @@ Feel free to reach out — whether it's to discuss DSA, collaborate, or just say
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shivambisht00/DSA-with-SAM/tree/master/0206-reverse-linked-list) |
